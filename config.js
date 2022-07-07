@@ -49,7 +49,7 @@ global.location = "Indonesia,bandara lampung,metro" //ur location
 
 //bot bombdy
 global.botname = "IBNU-MD" //ur bot name
-global.websitex = "https://wa.me/6289667644225" //ur website
+global.websitex = "https://wa.me/+17123505613" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "IBNU Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "IBNU-MD|》🗿《|"
