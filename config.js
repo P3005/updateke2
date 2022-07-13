@@ -25,11 +25,11 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //documents variants
@@ -49,18 +49,18 @@ global.location = "Indonesia,bandara lampung,metro" //ur location
 
 //bot bombdy
 global.botname = "IBNU-MD" //ur bot name
-global.websitex = "https://wa.me/+17123505613" //ur website
+global.websitex = "https://chat.whatsapp.com/L6mF44apLHBKMSF8Fopfyj" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "IBNU Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "IBNU-MD|》🗿《|"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6281807254833'] //ur owner tag
-global.ownernummenu = ['17123505613'] //ur owner number in menu and all
+global.ownertag = ['12052735501'] //ur owner tag
+global.ownernummenu = ['wa.me/+6281802754833'] //ur owner number in menu and all
 global.watermark = "IBNU-MD." //ur watermark
-global.botscript = "https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn"
+global.botscript = "https://chat.whatsapp.com/L6mF44apLHBKMSF8Fopfyj"
 global.linkz1 = " https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn  "
-global.linkz2 = "https://chat.whatsapp.com/G2SkpMM4ctNCIXSC28BV0D "
+global.linkz2 = "https://chat.whatsapp.com/L6mF44apLHBKMSF8Fopfyj "
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
