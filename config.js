@@ -41,8 +41,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6281807254833'] //ur owner number
-global.ownername = "IBNU OFFICIAL"
+global.owner = ['6283137550315'] //ur owner number
+global.ownername = "Danzz Alok"
 global.ytname = "https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn" //ur yt chanel name
 global.socialm = "https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn" //ur github or insta name
 global.location = "Indonesia,bandara lampung,metro" //ur location
@@ -55,7 +55,7 @@ global.packname = "IBNU Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "IBNU-MD|》🗿《|"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['12052735501'] //ur owner tag
+global.ownertag = ['6283137550315'] //ur owner tag
 global.ownernummenu = ['wa.me/+6281807254833'] //ur owner number in menu and all
 global.watermark = "IBNU-MD." //ur watermark
 global.botscript = "https://chat.whatsapp.com/L6mF44apLHBKMSF8Fopfyj"
