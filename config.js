@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6281807254833'] //ur owner number
-global.ownername = "IBNU OFFICIAL 🅥⁩"
+global.owner = ['6282334750173'] //ur owner number
+global.ownername = "Praja OFFICIAL 🅥⁩"
 global.ytname = "https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn" //ur yt chanel name
 global.socialm = "https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn" //ur github or insta name
 global.location = "Indonesia,bandara lampung,metro" //ur location
 
 //bot bombdy
-global.botname = "IBNU-MD" //ur bot name
+global.botname = "P3005Botz" //ur bot name
 global.websitex = "https://chat.whatsapp.com/L6mF44apLHBKMSF8Fopfyj" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "IBNU Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "IBNU-MD|》🗿《|"
+global.packname = "P3005 Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "Praja-MD|》🗿《|"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['+6281346074841'] //ur owner tag
-global.ownernummenu = ['wa.me/+6281807254833'] //ur owner number in menu and all
-global.watermark = "IBNU-MD." //ur watermark
-global.botscript = "https://chat.whatsapp.com/L6mF44apLHBKMSF8Fopfyj"
-global.linkz1 = " https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn  "
-global.linkz2 = "https://chat.whatsapp.com/L6mF44apLHBKMSF8Fopfyj "
+global.ownertag = ['+6282334750173'] //ur owner tag
+global.ownernummenu = ['wa.me/+6282334750173'] //ur owner number in menu and all
+global.watermark = "P3005-MD." //ur watermark
+global.botscript = "https://chat.whatsapp.com/L6mF44pLHBKMSF8Fopfyj"
+global.linkz1 = " https://chat.whatsapp.com/J7VtphsCUXCMTnbLsRurn  "
+global.linkz2 = "https://chat.whatsapp.com/L6mF44pLHBKMSF8Fopfyj "
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
